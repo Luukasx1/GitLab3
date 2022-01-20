@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Co Cie boli? Czy aż tak Cie to boli?
 Ze Rychu Peja ma szanse dzis uczciwie zarobic?
 =======
@@ -8,3 +9,7 @@ Ja za Ciebie nic nie zrobię, a ty dziobem kłap, kłap!
 
 Pozdrawiam gosci, zapomnialem, nie mialem zadnego
 Sam ozlocilem to solo, nie do działy ze sceną
+=======
+Spadniemy na sam dół! Otrzemy się o dno! Dziewczyny robią "Uuu!", chłopaki robią "Ooo!".
+
+>>>>>>> 11cdfcc (dodanie czwartej linijki)
